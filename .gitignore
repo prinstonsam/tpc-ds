@@ -1,0 +1,7 @@
+generated-data
+tools/*.o
+tools_2.1
+*.vcproj
+*.wam
+tools/dbgen2.sln
+tools/Cygwin*
