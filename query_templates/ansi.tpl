@@ -35,4 +35,3 @@
 define __LIMITA = "";
 define __LIMITB = "top %d";
 define __LIMITC = "";
-define _END = "";

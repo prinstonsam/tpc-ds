@@ -3,9 +3,7 @@
 ## Install software (Ubuntu)
 ```bash
 # Ubuntu
-sudo apt install g++-9 gcc-9 make
-# Redhat
-yum -y install g++-9 gcc-9 make
+sudo apt install gcc g++ g++-9 gcc-9 make yacc flex
 ```
 
 ## Build tools. It needs gcc version 9
@@ -29,3 +27,6 @@ Example for 100 G
 ./bin/generate-data.sh 100 # 100 is scale
 ```
 
+
+## Schema of DB
+DDL query is `tools\tpcds.sql`
