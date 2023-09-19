@@ -11,7 +11,7 @@ cd ../tools
 
 TEMPLATE_DIR="../query_templates"
 OUTPUT_DIR="../queries"
-DIALECT_FILE="../ansi.tpl"
+DIALECT_FILE="ansi"
 QUERY_ID=""
 
 function generate_query()
